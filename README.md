@@ -36,8 +36,11 @@ pip install -r requirements.txt
 
 ### 5. Add Your PDFs
 mkdir data
-# Copy your PDF files into the data folder
 
-### Usage
-Start Ollama Server : ollama serve
-Run the Agent : python rag_agent.py
+### Copy your PDF files into the data folder
+
+## Usage
+### Start Ollama Server : 
+ollama serve
+### Run the Agent : 
+python rag_agent.py

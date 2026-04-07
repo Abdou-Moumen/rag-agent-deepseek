@@ -21,7 +21,7 @@ A simple RAG (Retrieval-Augmented Generation) agent that answers questions based
 ### 1. Install Ollama
 
 **Windows/Mac/Linux:**
-```bash
+bash
 curl -fsSL https://ollama.com/install.sh | sh
 
 ### 2. Pull DeepSeek Model
